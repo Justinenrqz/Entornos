@@ -5,3 +5,4 @@ Ayer tuvimos una reunión de equipo para ponernos al día con el proyecto. Estuv
 
 
 Tras una breve charla del equipo el dia 11 de febrero de 2025, se han incorporado nuevos cambios al proyecto. Acordamos que se realizarán ajustes en el diseño de la interfaz para mejorar la experiencia del usuario, además de optimizar el código para aumentar el rendimiento general del sistema. 
+ 
